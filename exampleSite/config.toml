@@ -12,8 +12,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 # disable language
-disableLanguages = false
-#[]
+disableLanguages = []
 
 ############################# Plugins ##########################
 # css plugins
@@ -135,9 +134,9 @@ link = "#"
   home = "Home"
 
   ################################ France Language ########################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
-  weight = 2
-  home = "Accueil"
+ # [Languages.fr]
+ # languageName = "Fr"
+ # languageCode = "fr-fr"
+ # contentDir = "content/french"
+ # weight = 2
+ # home = "Accueil"
