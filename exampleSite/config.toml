@@ -134,7 +134,7 @@ link = "#"
   home = "Home"
 
   ################################ France Language ########################
- #[Languages.fr]
+  [Languages.fr]
   languageName = "Fr"
   languageCode = "fr-fr"
   contentDir = "content/french"
