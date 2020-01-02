@@ -134,9 +134,9 @@ link = "#"
   home = "Home"
 
   ################################ France Language ########################
- # [Languages.fr]
- # languageName = "Fr"
- # languageCode = "fr-fr"
- # contentDir = "content/french"
- # weight = 2
- # home = "Accueil"
+ [Languages.fr]
+  languageName = "Fr"
+  languageCode = "fr-fr"
+  contentDir = "content/french"
+  weight = 2
+  home = "Accueil"
