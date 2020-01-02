@@ -64,10 +64,10 @@ URL = "plugins/wow/wow.min.js"
   URL = "team"
   weight = 4
 
-  [[menu.main]]
-  name = "Pricing"
-  URL = "pricing"
-  weight = 5
+#  [[menu.main]]
+#  name = "Pricing"
+#  URL = "pricing"
+#  weight = 5
 
   [[menu.main]]
   name = "Blog"
@@ -134,7 +134,7 @@ link = "#"
   home = "Home"
 
   ################################ France Language ########################
-  [Languages.fr]
+ #[Languages.fr]
   languageName = "Fr"
   languageCode = "fr-fr"
   contentDir = "content/french"
