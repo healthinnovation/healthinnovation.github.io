@@ -106,16 +106,16 @@ link = "#"
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-#[[params.social_Icon]]
-#icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
+[[params.social_Icon]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-#[[params.social_Icon]]
-#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
+[[params.social_Icon]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
 
-#[[params.social_Icon]]
-#icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+[[params.social_Icon]]
+icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 #[[params.social_Icon]]
