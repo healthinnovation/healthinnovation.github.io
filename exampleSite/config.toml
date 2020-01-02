@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://health-innovation-lab.com"
+baseURL = "https://health-innovation-lab.netlify.com"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
