@@ -11,7 +11,7 @@ contact:
  #   mapLatitude : 51.5223477
  #   mapLongitude: -0.1622023
 
-  geo:
+  map:
     title       : Map title
     # Use pixel for width as well
     width       : 100%
