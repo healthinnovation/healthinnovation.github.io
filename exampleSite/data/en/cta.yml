@@ -3,7 +3,7 @@ cta:
   enable : true
   bg_Image : "images/backgrounds/bg-1.jpg"
   title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  content : "Somos un laboratorio con procesos de investigacion y desarrollo de soluciones agiles y flexibles, orientados a generar impacto en beneficio de la salud de las personas."
   button:
     enable : true
     label : "Start a project with us"
