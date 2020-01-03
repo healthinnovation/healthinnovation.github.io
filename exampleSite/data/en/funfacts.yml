@@ -1,6 +1,6 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
+  enable : false
   bg_Image : "images/backgrounds/bg-1.jpg"
   counter_Item:
     # counter item loop
