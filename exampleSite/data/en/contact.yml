@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : Contact Details
   content : If you would like to know more about our services or be part of our team, don't hesitate to contact us.
-  form_Action: "https://formspree.io" #contact form works with https://formspree.io
+  form_Action: "https://formspree.io/imt.innovlab@oficinas-upch.pe" #contact form works with https://formspree.io
  # map:
  #   enable : true
  #   gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
