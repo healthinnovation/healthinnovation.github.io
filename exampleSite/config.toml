@@ -85,8 +85,8 @@ URL = "plugins/wow/wow.min.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "Health Innovation Lab"
+author = "Health Innovation Lab"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # post share
@@ -107,16 +107,24 @@ icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social_Icon]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social_Icon]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social_Icon]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social_Icon]]
+#icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social_Icon]]
+#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+
+#[[params.social_Icon]]
+#icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 #[[params.social_Icon]]
 #icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
