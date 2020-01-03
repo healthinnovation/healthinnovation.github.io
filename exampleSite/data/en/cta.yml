@@ -1,7 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_Image : "images/backgrounds/bg-3.jpg"
+  bg_Image : "images/backgrounds/bg-3.png"
+ # bg_Image : "images/backgrounds/bg-4.jpg"
   title : "Great Design & Incredible Features"
   content : "Somos un laboratorio con procesos de investigacion y desarrollo de soluciones agiles y flexibles, orientados a generar impacto en beneficio de la salud de las personas."
   button:
