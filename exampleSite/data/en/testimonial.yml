@@ -1,6 +1,6 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : true
+  enable : false
   bg_Image : images/backgrounds/bg-2.jpg
   testimonial_Item :
     # testimonial item loop
