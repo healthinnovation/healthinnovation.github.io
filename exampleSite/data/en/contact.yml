@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : If you would like to know more about our services or be part of our team, don't hesitate to contact us.
+  title : Contacto
+  subtitle : Detalles para contacto
+  content : Si deseas conocer más sobre nuestros servicios o quieres ser parte de nuestro equipo, no dudes en contactarnos.
   form_Action: "https://formspree.io/imt.innovlab@oficinas-upch.pe" #contact form works with https://formspree.io
  # map:
  #   enable : true
@@ -22,4 +22,4 @@ contact:
    #   info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: imt.innovlab@oficinas-upch.pe"
+      info : "Correo: imt.innovlab@oficinas-upch.pe"
