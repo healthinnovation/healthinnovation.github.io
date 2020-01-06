@@ -1,11 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_Image : "images/slider/hero-area.jpg"
+  bg_Image : "images/slider/drone.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Laboratorio de Innovación en Salud"
+  title : "Health Innovation Lab"
   content : "Instituto de Medicina Tropical Alexander von Humboldt"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Conocer más"
     link : "#services"
