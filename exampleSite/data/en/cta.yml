@@ -3,9 +3,9 @@ cta:
   enable : true
  # bg_Image : "images/backgrounds/bg-3.png"
   bg_Image : "images/backgrounds/bg-4.jpg"
-  title : "Great Design & Incredible Features"
+  title : "Proyectos en Salud"
   content : "Somos un laboratorio con procesos de investigacion y desarrollo de soluciones agiles y flexibles, orientados a generar impacto en beneficio de la salud de las personas."
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Contáctanos"
     link : "#contact"
