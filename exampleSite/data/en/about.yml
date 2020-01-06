@@ -1,20 +1,20 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Nosotros
   about_Item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    title : Análisis geoespacial de enfermedades
+    content : Aplicación de técnicas geográficas para entender la distribución y dinámica de enfermedades en contextos urbanos y rurales.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-server # themify icon pack : https://themify.me/themify-icons
+    title : Ciencia de datos enfocado a enfermedades infecciosas
+    content : Uso de nuevas fuentes de información para extraer, modelar y predecir la transmisión de enfermedades infecciosas.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+    title : Construcción de soluciones en salud con base tecnológica
+    content : Ideación, desarrollo e implementación de soluciones en salud a través de recursos tecnológicos identificados.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
+    title : Innovación en productos, procesos y gestión en la salud
+    content : Creación de mecanismos, procedimientos y buenas prácticas para una adecuada gestión en salud, desarrollados desde una perspectiva dinámica, colaborativa y con un enfoque a mejora.
