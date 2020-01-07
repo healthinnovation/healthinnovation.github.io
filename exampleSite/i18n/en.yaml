@@ -1,14 +1,14 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Últimos posts
 - id: readMore
-  translation: Read more
+  translation: Leer más
 - id: viewAllPost
-  translation: View All Post
+  translation: Ver todos los posts
 - id: share
-  translation: Share
+  translation: Compartir
 - id: aboutAuthor
-  translation: About author
+  translation: Acerca del autor
 - id: authorsPosts
-  translation: Author's posts
+  translation: Posts del autor
 - id: copyright
   translation: copyright &copy; 2019 all right reserved
