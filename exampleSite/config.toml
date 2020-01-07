@@ -10,7 +10,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # default content language
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 # disable language
 disableLanguages = []
 
@@ -72,12 +72,12 @@ URL = "plugins/wow/wow.min.js"
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 6
+  weight = 5
 
   [[menu.main]]
   name = "Contacto"
   URL = "contact"
-  weight = 7
+  weight = 6
 
 
 
@@ -139,7 +139,7 @@ link = "#"
   languageCode = "en-us"
   contentDir = "content/english"
   weight = 1
-  home = "Home"
+  home = "Inicio"
 
   ################################ France Language ########################
  [Languages.fr]
