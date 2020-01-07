@@ -4,13 +4,13 @@ portfolio:
   title : Nuestros proyectos
   filter_List :
     - filter_Type : photography
-      filter_Title : Photography
+      filter_Title : Filtro 1
       
     - filter_Type : design
-      filter_Title : Design
+      filter_Title : Filtro 2
       
     - filter_Type : development
-      filter_Title : Development
+      filter_Title : Filtro 3
 
   portfolio_Item :
     - types : ["design"]
