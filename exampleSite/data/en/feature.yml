@@ -5,7 +5,7 @@ feature:
   title : Quienes somos
   content : "El Laboratorio de Innovación en Salud (LIS) es un espacio multidisciplinario para diseñar y evaluar tecnologías innovadoras para mejorar la salud de las personas. LIS está dirigido a generar propuestas en un marco de experimentación, investigación y difusión de metodologías y herramientas innovadoras que busquen generar soluciones en el sector salud de la mano de la sociedad para la adecuada toma de decisiones. En este laboratorio se promueve el uso de tecnologías y datos abiertos con el propósito de disminuir la barreras de la implementación, la reproducibilidad e incrementar el impacto de las propuestas de innovación. LIS forma parte de la red Global Open Science Hardware (GOSH) y de TECNOx, la red de América Latina y El Caribe de tecnologías abiertas. Entre las líneas de investigación principales de este laboratorio se encuentra el desarrollo de sistemas de diagnóstico y detección, desarrollo de herramientas para la detección de parámetros ambientales, ciencia de datos y ‘big data’ aplicados a enfermedades tropicales, y análisis geoespaciales de patrones de movilidad y migratorios."
 
-# feature_Item : 
+feature_Item : 
  #   - icon : ti-world # themify icon pack : https://themify.me/themify-icons
  #     title : SEO Optimized
  #     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
