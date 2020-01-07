@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Proyectos
+  title : Nuestros proyectos
   filter_List :
     - filter_Type : photography
       filter_Title : Photography
@@ -16,53 +16,53 @@ portfolio:
     - types : ["design"]
       image : images/portfolio/portfolio-1.jpg
       URL : #
-      title : Tag Design
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : Gorgas
+      content : Desarrollo de trazadores de movilidad para determinar el riesgo de importacion de malaria
       
     - types : ["development"]
       image : images/portfolio/portfolio-2.jpg
       URL : #
-      title : Sound system
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : GPS-trackers
+      content : Desarrollo de trazadores de movilidad para determinar la exposición ambiental en contextos urbanos y rurales.
       
     - types : ["design", "development"]
       image : images/portfolio/portfolio-3.jpg
       URL : #
-      title : Clock Product
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : Big Pixel
+      content : Inteligencia Artificial (IA) aplicada a la identificacion de tipologias ambientales y desarrollo urbano favorables para la transmission de enfermedades infecciosas y crónicas.
       
     - types : ["photography", "development"]
       image : images/portfolio/portfolio-4.jpg
       URL : #
-      title : Bottol Label
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : Digital Diagnostics
+      content : Desarrollo de plataformas de diagnostico en base a microscopia digital de bajo costo y código abierto para fortalecer las estrategias de control de enfermedades infecciosas.
       
     - types : ["design"]
       image : images/portfolio/portfolio-5.jpg
       URL : #
-      title : Shopping Bag
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : E-trends
+      content : Monitoreo y analisis de fuentes de informacion masiva y redes sociales para la contruccion de modelos predictivos.
       
     - types : ["photography"]
       image : images/portfolio/portfolio-6.jpg
       URL : #
-      title : Tag Design
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : IoT-clim
+      content : Plataforma modular abierta de medición de parámetros climáticos y ambientales y su potencial impacto en la salud basado en internet de las cosa (Internet of Things – IoT).
       
     - types : ["development"]
       image : images/portfolio/portfolio-7.jpg
       URL : #
-      title : Business Card
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : ARISO
+      content : Aplicación móvil para el acompañamiento, capacitación y manejo de familias con hijos con habilidades especiales.
       
     - types : ["design", "development"]
       image : images/portfolio/portfolio-8.jpg
       URL : #
-      title : Stationary Design
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : Drone
+      content : Uso de drones y ciencia de datos para enterder los determinantes micro-amibientales que condicionan las enfermedades infecciosas y crónicas.
       
     - types : ["design", "photography"]
       image : images/portfolio/portfolio-2.jpg
       URL : #
-      title : Tag Design
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : Microfluidics
+      content : Desarrollo de tecnicas en microfluidica para potenciar el diagnostico de enfermedades infecciosas.
