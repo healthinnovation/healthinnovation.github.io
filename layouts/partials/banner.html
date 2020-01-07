@@ -10,8 +10,7 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
-		<!--<h1>{{ .title | markdownify }}</h1>-->
-		<h1>Laboratorio de Innovación en Salud</h1>
+		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
