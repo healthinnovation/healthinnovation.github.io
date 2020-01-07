@@ -5,7 +5,7 @@ team:
   team_Member :
     # team member loop
     - image : images/team/team-1.jpg
-      name : Abul Mal Muhit
+      name : Pierre Padilla
       designation : CEO/Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -20,7 +20,7 @@ team:
         
     # team member loop
     - image : images/team/team-2.jpg
-      name : Frank Miller
+      name : Moises Meza
       designation : Manager
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -35,7 +35,7 @@ team:
         
     # team member loop
     - image : images/team/team-3.jpg
-      name : Michael Jonson
+      name : Gabriel Carrasco
       designation : Web Developer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -50,7 +50,7 @@ team:
         
     # team member loop
     - image : images/team/team-4.jpg
-      name : Mo. Kha. Alamgir
+      name : Katherine Arapa
       designation : SEO Specialist
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -65,7 +65,7 @@ team:
           
     # team member loop
     - image : images/team/team-5.jpg
-      name : Edgar Allan Poe
+      name : Edgar Manrique
       designation : SEO Specialist
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
