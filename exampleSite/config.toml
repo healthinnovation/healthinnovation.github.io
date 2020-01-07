@@ -49,20 +49,20 @@ URL = "plugins/wow/wow.min.js"
   URL = "about"
   weight = 1
 
-  [[menu.main]]
-  name = "Servicios"
-  URL = "services"
-  weight = 2
+ # [[menu.main]]
+ # name = "Servicios"
+ # URL = "services"
+ # weight = 2
 
   [[menu.main]]
   name = "Proyectos"
   URL = "portfolio"
-  weight = 3
+  weight = 2
 
   [[menu.main]]
   name = "Equipo"
   URL = "team"
-  weight = 4
+  weight = 3
 
 #  [[menu.main]]
 #  name = "Pricing"
@@ -72,12 +72,12 @@ URL = "plugins/wow/wow.min.js"
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 5
+  weight = 4
 
   [[menu.main]]
   name = "Contacto"
   URL = "contact"
-  weight = 6
+  weight = 5
 
 
 
@@ -142,9 +142,9 @@ link = "#"
   home = "Inicio"
 
   ################################ France Language ########################
- [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
-  weight = 2
-  home = "Accueil"
+# [Languages.fr]
+#  languageName = "Fr"
+#  languageCode = "fr-fr"
+#  contentDir = "content/french"
+#  weight = 2
+#  home = "Accueil"
