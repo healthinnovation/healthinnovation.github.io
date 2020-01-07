@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://health-innovation-lab.netlify.com"
-title = "Health Innovation Lab"
+title = "Laboratorio de Innovación en Salud"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
