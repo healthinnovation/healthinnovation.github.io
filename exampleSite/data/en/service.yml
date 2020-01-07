@@ -1,6 +1,6 @@
 ################################# Service #################################
 service:
-  enable : true
+  enable : false
   title : Our Services
   service_Item :
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
