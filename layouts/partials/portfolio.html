@@ -35,7 +35,7 @@
 		<div class="row shuffle-wrapper">
 			{{"<!-- portfolio item -->" | safeHTML}}
 			{{ range .portfolio_Item }}
-			<div class="col-lg-4 shuffle-item"
+			<div class="col-lg-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .types }}{{if eq $index 0}} {{else}},{{end}}&quot;{{.}}&quot;{{ end }}]">
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="{{ .image | relURL }}" alt="work-image">
