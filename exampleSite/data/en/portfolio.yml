@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Proyectos
   filter_List :
     - filter_Type : photography
       filter_Title : Photography
